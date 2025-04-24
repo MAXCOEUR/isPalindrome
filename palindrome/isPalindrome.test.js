@@ -1,4 +1,4 @@
-const isPalindrome = require('./isPalindrome');
+const isPalindrome = require('./isPalindrome'); 
 
 describe('isPalindrome', () => {
   test('doit retourner true pour un palindrome simple', () => {

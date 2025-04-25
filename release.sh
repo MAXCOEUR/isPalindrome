@@ -11,7 +11,7 @@ use_standard_version() {
   echo "🚀 Utilisation de standard-version..."
   npx standard-version
   git push --follow-tags origin main
-  gh release create "$(jq -r .version package.json)" -F CHANGELOG.md
+  gh release create "v$(jq -r .version package.json)" -F CHANGELOG.md
 }
 
 use_release_it() {

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.3.1 (2025-04-25)
+
+
+### Bug Fixes
+
+* npx release-it ([c67ccce](https://github.com/MAXCOEUR/isPalindrome/commit/c67ccce30a4a4d0044d29326c29f201c4b0ff5a2))
+
 ### 1.2.1 (2025-04-25)
 
 

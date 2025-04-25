@@ -1,7 +1,6 @@
 name: Release (release-it)
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:

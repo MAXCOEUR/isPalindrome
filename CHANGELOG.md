@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.4 (2025-04-25)
+
+
+### Bug Fixes
+
+* test ([9fc94ac](https://github.com/MAXCOEUR/isPalindrome/commit/9fc94ace5f5d682113a78240d470e2e4f570beab))
+
 ### 1.1.3 (2025-04-25)
 
 ### 1.1.2 (2025-04-25)

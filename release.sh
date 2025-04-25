@@ -16,7 +16,7 @@ use_standard_version() {
 
 use_release_it() {
   echo "🚀 Utilisation de release-it..."
-  npx release-it --no-npm.publish --github.release --increment minor --github.token=$GITHUB_TOKEN
+  npx release-it --no-npm.publish --github.release --increment patch --github.token=$GITHUB_TOKEN
 }
 
 case "$1" in
